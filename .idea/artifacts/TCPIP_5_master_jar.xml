@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TCPIP-5-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCPIP_5_master_jar</output-path>
+    <root id="archive" name="TCPIP-5-master.jar">
+      <element id="module-output" name="TCPIP-5-master" />
+      <element id="extracted-dir" path="D:/MySQLworkbench/mysql-connector-java-5.0.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
